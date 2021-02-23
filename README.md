@@ -1,3 +1,4 @@
 # MY-HTML-WORKS
 
-My First Project na TRIBUTE WEBSITE
+This project work contains the projects that I have accomplished while learning on freecodecamp.
+The language used so far are HTML and CSS
